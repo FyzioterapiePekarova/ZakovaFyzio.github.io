@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jiří Zak
-subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
+title: Tereza Žáková
+subtitle: Child PhysioTherapy • Child Neurology • NDT concept
 cover-img: /assets/img/picweb.jpg
 ---
 
@@ -9,27 +9,26 @@ cover-img: /assets/img/picweb.jpg
 
 (website under construction)
 
-I am **Jiří Žák**, an exoplanet researcher working on orbital architectures, stellar obliquities, and planetary evolution.
+I am **Tereza Žáková**, a Child PhysioTherapist working with children from the very young age until their adolescency. I am specializing on child Physiotherapy with an emphasis on Neurology and Orthopedic diseases.
 
-My research focuses on the formation, migration, and dynamical evolution of exoplanetary systems, with particular emphasis on:
+My clinical experience includes 7 years of work. I focused on variety of neurological conditions including: 
 
-- stellar obliquities  
-- resonant multiplanet systems  
-- spin-orbit architectures  
-- planetary migration pathways  
-- links between orbital evolution and atmospheric properties  
+- poliomyelitis
+- developmental disorders  
+- post-traumatic conditions / post-injury states  
+- faulty posture, e.g. scoliosis
+- congenital syndromes, e.g. Blau syndrome
+- muscular dystrophy
 
-# Current research
+# Training and seminars
 
-- Rossiter–McLaughlin effect and stellar obliquities  
-- Radial-velocity studies of exoplanet systems  
-- Resonant and dynamically excited planetary architectures  
-- Planet migration and post-disc evolution  
-- Atmospheric characterization in the Ariel and JWST era  
+2025- 8 weeks intense course in Neurodevelopmental Treatment
+2024 1 week extension to basal Postural Programs with an emphasis on child development
+2024- 4 weeks introductory Basal Postural Programs based on Jarmila Capova methods
 
-# Ongoing projects
 
-- Ariel Stellar Obliquity Working Group  
-- PLATOSpec first science  
-- Spin-orbit architecture of giant exoplanets  
-- Dynamical pathways to misaligned and eccentric systems  
+  
+
+# Projects and visits
+
+- 2025 Spaulding Rehabilitation center, Boston, USA
