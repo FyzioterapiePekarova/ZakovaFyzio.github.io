@@ -3,20 +3,18 @@ layout: page
 title: About Me
 ---
 
-I am Jiri Zak, a postdoctoral researcher in exoplanetary science.
+I am Tereza Zakova, a child physiotherapist.
 
-My research focuses on:
+My clinical experience focuses on:
 
-- orbital architectures of planetary systems  
-- stellar obliquity measurements  
-- migration pathways of giant planets  
-- atmospheric characterization  
+- poliomyelitis
+- developmental disorders  
+- post-traumatic conditions / post-injury states  
+- faulty posture, e.g. scoliosis
+- congenital syndromes, e.g. Blau syndrome
+- muscular dystrophy
 
-I work with spectroscopic observations from instruments including:
+I work with children and adolescents.
+From 2021 to 2026 I have worked in Fyziocentrum Nerudova in Pardubice, Czech Republic. 
 
-- HARPS  
-- HARPS-N  
-- ESPRESSO  
-- PLATOSpec  
-
-I am involved in several international collaborations related to Ariel, PLATO, and PLATOSpec.
+I have completed several courses and seminars with emphasis on NDT.
