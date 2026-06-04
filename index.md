@@ -22,9 +22,9 @@ My clinical experience includes 7 years of work. I focused on variety of neurolo
 
 # Training and seminars
 
-2025- 8 weeks intense course in Neurodevelopmental Treatment
-2024 1 week extension to basal Postural Programs with an emphasis on child development
-2024- 4 weeks introductory Basal Postural Programs based on Jarmila Capova methods
+-  2025- 8 weeks intense course in Neurodevelopmental Treatment
+-  2024 1 week extension to basal Postural Programs with an emphasis on child development
+-  2024 4 weeks introductory Basal Postural Programs based on Jarmila Capova methods
 
 
   
